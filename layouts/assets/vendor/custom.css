@@ -244,6 +244,7 @@ select{
     border-radius: 3px;
     height: 46px;
     color: #4d4d4d;
+    border: none;
 }
 .search_box input::-webkit-input-placeholder { /* Edge */
   color: #4d4d4d;
@@ -508,6 +509,7 @@ footer .footer_widget h4 {
     height: 40px;
     font-size: 14px;
     padding: 10px 15px;
+    border:none;
 }
 .footer_widget button.submit_news_btn {
     position: absolute;
